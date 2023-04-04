@@ -32,7 +32,6 @@ From teaching to tech, my passion for creating engaging learning experiences rem
 **[![GitHub Streak](https://streak-stats.demolab.com?user=MauroAlvarez1997&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=000000)](https://git.io/streak-stats)**
 [![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroAlvarez1997)](https://github.com/MauroAlvarez1997/github-readme-stats)
 
-### Let's Get Connected!
 
 <a href="https://www.linkedin.com/in/mauro-v-alvarez/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wellfound.com/u/mauro-alvarez-1" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
